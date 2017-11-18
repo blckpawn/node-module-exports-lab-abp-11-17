@@ -1,5 +1,5 @@
 'use strict';
-const Icebreaker = (./Icebreaker.js)
+const Icebreaker = require(./Icebreaker.js)
 class Question {
   static Find(){
 
